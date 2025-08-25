@@ -26,4 +26,4 @@ php artisan test
 ```
 
 ## API
-см. файл api-docs.md
+см. файл api-docs.md (https://github.com/AlexKriak/CourseEnrollmentApi/blob/master/api-docs.md)
